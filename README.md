@@ -5,7 +5,12 @@
 
 <h3 align="center">A passionate frontend developer in progress from Spain</h3>
 
-- 🔭 I’m currently working on [TattooStudio React Frontend](https://github.com/ariusvi/react_tattoostudio)
+- 🔭 I’m currently working on [SocialNetwork React Frontend]([https://github.com/ariusvi/react_tattoostudio](https://github.com/ariusvi/social_network_frontend))
+
+
+  Last projects:
+  - 🎨[React Frontend: Old Ink](https://github.com/ariusvi/react_tattoostudio)
+  - 🎨[Backend: Old Ink](https://github.com/ariusvi/backend_services)
 
 
 <h3 align="left">Connect with me:</h3>
