@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate frontend developer in progress from Spain</h3>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on 🧸[Frontend: IchiPlush](https://github.com/ariusvi/ichiplush_frontend) & 🧸[Backend: IchiPlush](https://github.com/ariusvi/ichiplush_backend)
 
 
   Last projects:
